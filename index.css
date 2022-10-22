@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    padding: 0px;
+   
+  }
+.login
+{
+    align-items: center;
+    
+}
+#loginform
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin:0 auto;
+}
+p
+{
+    margin:10px;
+}
